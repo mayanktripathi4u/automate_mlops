@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Virtual environments
+mlops_venv
+Miniconda3-latest-MacOSX-arm64.sh
