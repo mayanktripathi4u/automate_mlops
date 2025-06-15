@@ -197,3 +197,4 @@ cython_debug/
 # Virtual environments
 mlops_venv
 Miniconda3-latest-MacOSX-arm64.sh
+notes.txt
